@@ -12,7 +12,7 @@ from utils.hosts_config_generator import generate_config
 env.roledefs = {'agent': ['178.154.159.91'], 'server': ['178.154.159.68']}
 
 env.user = 'teamcity'
-env.password = 'Cleph8OvOwd'
+env.password = 'pwdPwdPwd010101'
 
 server_launch_dir = "/etc/init.d/"
 server_config_dir = "/place/yasm/apps/conf/"
